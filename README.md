@@ -12,4 +12,9 @@
 <p>Can connect with me </p>
 <a href="https://www.linkedin.com/in/sreejith-s-5a0784251/"><img src="https://github.com/Tech-Legend/random_images/blob/main/linkedin.png" height="50" width="50"/></a> &nbsp; &nbsp; &nbsp;
 <a href="https://leetcode.com/u/Sreejith0307/"><img src="https://github.com/Tech-Legend/random_images/blob/main/icons8-level-up-your-coding-skills-and-quickly-land-a-job-96.png" height="50" width="50"/></a>
+<br>
+<br>
+<br>
+<br>
+<img src="https://github.com/Tech-Legend/random_images/blob/main/HD-wallpaper-programming-coding-language.jpg" width="100%" height="300"/>
 
